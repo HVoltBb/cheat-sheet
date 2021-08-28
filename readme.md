@@ -1,4 +1,4 @@
-#Python Cheat Sheet for R Users / R Cheat Sheet for Python Developers
+# Python Cheat Sheet for R Users / R Cheat Sheet for Python Developers
 
 If you are neither an R User nor a Python developer, this is not for you. On the other hand, if you are both an R User and a Python developer, feel free to contribute.
 
