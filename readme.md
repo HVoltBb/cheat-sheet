@@ -1,6 +1,6 @@
 # Python Cheat Sheet for R Users / R Cheat Sheet for Python Developers
 
-If you are both an R User and a Python developer, feel free to contribute.
+If you are both an R User and/or a Python developer, feel free to contribute.
 
 | R                               | Python                                                           |
 | :------------------------------ | :--------------------------------------------------------------- |
